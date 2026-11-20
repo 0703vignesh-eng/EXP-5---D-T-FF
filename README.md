@@ -16,7 +16,6 @@ Q(next) = T ⊕ Q   (Q(next) = Q if T = 0, Q(next) = Q' if T = 1)
 
 ## Design / RTL Program
 
-```
 ## Testbench Program
 
 
